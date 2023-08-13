@@ -1,0 +1,45 @@
+
+.search {
+    margin: 20px 5px;
+  }
+  
+  
+    .container {
+      max-width: 700px;
+      margin-top: 20px;
+      text-align: left;
+  
+     
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+  .btn {
+    background: #DC52FC;
+    background-image: linear-gradient(to bottom, #DC52FC , #9356DC);
+    font-family: Roboto;
+    color: #ffffff;
+    font-size: 16px;
+    border-radius: 0px 10px 10px 0px;
+    border-style: none;
+   
+    padding: 7px 25px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #e69fd2;
+    background-image: -webkit-linear-gradient(top, #e69fd2, #a57ed4);
+    background-image: -moz-linear-gradient(top, #e69fd2, #a57ed4);
+    background-image: -ms-linear-gradient(top, #e69fd2, #a57ed4);
+    background-image: -o-linear-gradient(top, #e69fd2, #a57ed4);
+    background-image: linear-gradient(to bottom, #e69fd2 , #a57ed4);
+    text-decoration: none;
+  }
+  
+  .inputBox {
+    padding: 6px;
+    width: 250px;
+    border-color: #9356DC;
+  }
